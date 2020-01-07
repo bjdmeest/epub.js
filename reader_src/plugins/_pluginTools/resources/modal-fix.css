@@ -1,0 +1,94 @@
+.md-scroll {
+	overflow-y: auto;
+	height: 250px;
+}
+
+@media only screen and (max-width: 650px) {
+  .modal {
+  	width: 500px;
+	margin-left: -250px;
+  }
+}
+
+@media only screen and (max-width: 550px) {
+  .modal {
+      width: 450px;
+      margin-left: -225px;
+  }
+		
+  #viewer{
+    width: 80%;
+    margin-left: 10%;
+  }
+  
+  #prev {
+    left: 0;
+  }
+  
+  #next {  
+    right: 0;
+  }
+  
+  .arrow {
+    height: 100%;
+    top: 45px;
+    width: 10%;
+    text-indent: -10000px;
+  }
+  
+  #main {
+    -webkit-transform: translate(0, 0);
+    -moz-transform: translate(0, 0);
+    -webkit-transition: -webkit-transform .3s;
+    -moz-transition: -moz-transform .3s;
+  }
+  
+  #main.closed {
+    -webkit-transform: translate(260px, 0);
+    -moz-transform: translate(260px, 0);
+  }
+  
+  #titlebar {
+    /* font-size: 16px; */
+    /* margin: 0 50px 0 50px; */
+  }
+  
+  #metainfo {
+    font-size: 10px;
+  }
+  
+  #tocView {
+    width: 260px;
+  }
+  
+  #tocView li {
+    font-size: 12px;
+  }
+  
+  #tocView > ul{
+    padding-left: 10px;
+    webkit-padding-start:;
+  }
+}
+
+@media only screen and (max-width: 480px) {
+  .modal {
+      width: 350px;
+      margin-left: -175px;
+  }
+}
+
+@media only screen and (max-width: 320px) {
+  .modal {
+      width: 320px;
+      margin-left: -160px;
+  }
+}
+
+/* For iPhone portrait layouts only */
+@media only screen and (max-device-width: 480px) and (orientation: portrait) {
+	.modal {
+		width: 325px;
+		margin-left: -162px;
+	}
+}

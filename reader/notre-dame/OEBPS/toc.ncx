@@ -1,0 +1,491 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<!DOCTYPE ncx PUBLIC '-//NISO//DTD ncx 2005-1//EN' 'http://www.daisy.org/z3986/2005/ncx-2005-1.dtd'>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" xml:lang="en" version="2005-1">
+  <head>
+    <meta name="dtb:uid" content="http://www.gutenberg.org/ebooks/2610"/>
+    <meta name="dtb:depth" content="3"/>
+    <meta name="dtb:generator" content="Ebookmaker 0.4.0a3 by Marcello Perathoner &lt;webmaster@gutenberg.org&gt;"/>
+    <meta name="dtb:totalPageCount" content="0"/>
+    <meta name="dtb:maxPageNumber" content="0"/>
+  </head>
+  <docTitle>
+    <text>Notre-Dame De Paris</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="np-1" playOrder="1">
+      <navLabel>
+        <text>NOTRE-DAME DE PARIS</text>
+      </navLabel>
+      <content src="@public@vhost@g@gutenberg@html@files@2610@2610-h@2610-h-0.htm.html#pgepubid00000"/>
+      <navPoint id="np-2" playOrder="2">
+        <navLabel>
+          <text>Also known as:</text>
+        </navLabel>
+        <content src="@public@vhost@g@gutenberg@html@files@2610@2610-h@2610-h-0.htm.html#pgepubid00001"/>
+      </navPoint>
+      <navPoint id="np-3" playOrder="3">
+        <navLabel>
+          <text>THE HUNCHBACK OF NOTRE DAME</text>
+        </navLabel>
+        <content src="@public@vhost@g@gutenberg@html@files@2610@2610-h@2610-h-0.htm.html#pgepubid00002"/>
+        <navPoint id="np-4" playOrder="4">
+          <navLabel>
+            <text>Translated by Isabel F. Hapgood</text>
+          </navLabel>
+          <content src="@public@vhost@g@gutenberg@html@files@2610@2610-h@2610-h-0.htm.html#pgepubid00003"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="np-5" playOrder="5">
+        <navLabel>
+          <text>PREFACE.</text>
+        </navLabel>
+        <content src="@public@vhost@g@gutenberg@html@files@2610@2610-h@2610-h-0.htm.html#pgepubid00004"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="np-6" playOrder="6">
+      <navLabel>
+        <text>VOLUME I.</text>
+      </navLabel>
+      <content src="@public@vhost@g@gutenberg@html@files@2610@2610-h@2610-h-0.htm.html#pgepubid00005"/>
+    </navPoint>
+    <navPoint id="np-7" playOrder="7">
+      <navLabel>
+        <text>BOOK FIRST.</text>
+      </navLabel>
+      <content src="@public@vhost@g@gutenberg@html@files@2610@2610-h@2610-h-0.htm.html#pgepubid00006"/>
+      <navPoint id="np-8" playOrder="8">
+        <navLabel>
+          <text>CHAPTER I. THE GRAND HALL.</text>
+        </navLabel>
+        <content src="@public@vhost@g@gutenberg@html@files@2610@2610-h@2610-h-0.htm.html#pgepubid00007"/>
+      </navPoint>
+      <navPoint id="np-9" playOrder="9">
+        <navLabel>
+          <text>CHAPTER II. PIERRE GRINGOIRE.</text>
+        </navLabel>
+        <content src="@public@vhost@g@gutenberg@html@files@2610@2610-h@2610-h-1.htm.html#pgepubid00008"/>
+      </navPoint>
+      <navPoint id="np-10" playOrder="10">
+        <navLabel>
+          <text>CHAPTER III. MONSIEUR THE CARDINAL.</text>
+        </navLabel>
+        <content src="@public@vhost@g@gutenberg@html@files@2610@2610-h@2610-h-1.htm.html#pgepubid00009"/>
+      </navPoint>
+      <navPoint id="np-11" playOrder="11">
+        <navLabel>
+          <text>CHAPTER IV. MASTER JACQUES COPPENOLE.</text>
+        </navLabel>
+        <content src="@public@vhost@g@gutenberg@html@files@2610@2610-h@2610-h-1.htm.html#pgepubid00010"/>
+      </navPoint>
+      <navPoint id="np-12" playOrder="12">
+        <navLabel>
+          <text>CHAPTER V. QUASIMODO.</text>
+        </navLabel>
+        <content src="@public@vhost@g@gutenberg@html@files@2610@2610-h@2610-h-2.htm.html#pgepubid00011"/>
+      </navPoint>
+      <navPoint id="np-13" playOrder="13">
+        <navLabel>
+          <text>CHAPTER VI. ESMERALDA.</text>
+        </navLabel>
+        <content src="@public@vhost@g@gutenberg@html@files@2610@2610-h@2610-h-2.htm.html#pgepubid00012"/>
+      </navPoint>
+      <navPoint id="np-14" playOrder="14">
+        <navLabel>
+          <text>BOOK SECOND.</text>
+        </navLabel>
+        <content src="@public@vhost@g@gutenberg@html@files@2610@2610-h@2610-h-2.htm.html#pgepubid00013"/>
+      </navPoint>
+      <navPoint id="np-15" playOrder="15">
+        <navLabel>
+          <text>CHAPTER I. FROM CHARYBDIS TO SCYLLA.</text>
+        </navLabel>
+        <content src="@public@vhost@g@gutenberg@html@files@2610@2610-h@2610-h-2.htm.html#pgepubid00014"/>
+      </navPoint>
+      <navPoint id="np-16" playOrder="16">
+        <navLabel>
+          <text>CHAPTER II. THE PLACE DE GREVE.</text>
+        </navLabel>
+        <content src="@public@vhost@g@gutenberg@html@files@2610@2610-h@2610-h-2.htm.html#pgepubid00015"/>
+      </navPoint>
+      <navPoint id="np-17" playOrder="17">
+        <navLabel>
+          <text>CHAPTER III. KISSES FOR BLOWS.</text>
+        </navLabel>
+        <content src="@public@vhost@g@gutenberg@html@files@2610@2610-h@2610-h-2.htm.html#pgepubid00016"/>
+      </navPoint>
+      <navPoint id="np-18" playOrder="18">
+        <navLabel>
+          <text>CHAPTER IV. THE INCONVENIENCES OF FOLLOWING A PRETTY WOMAN THROUGH THE</text>
+        </navLabel>
+        <content src="@public@vhost@g@gutenberg@html@files@2610@2610-h@2610-h-3.htm.html#pgepubid00017"/>
+      </navPoint>
+      <navPoint id="np-19" playOrder="19">
+        <navLabel>
+          <text>CHAPTER V. RESULT OF THE DANGERS.</text>
+        </navLabel>
+        <content src="@public@vhost@g@gutenberg@html@files@2610@2610-h@2610-h-3.htm.html#pgepubid00018"/>
+      </navPoint>
+      <navPoint id="np-20" playOrder="20">
+        <navLabel>
+          <text>CHAPTER VI. THE BROKEN JUG.</text>
+        </navLabel>
+        <content src="@public@vhost@g@gutenberg@html@files@2610@2610-h@2610-h-3.htm.html#pgepubid00019"/>
+      </navPoint>
+      <navPoint id="np-21" playOrder="21">
+        <navLabel>
+          <text>CHAPTER VII. A BRIDAL NIGHT.</text>
+        </navLabel>
+        <content src="@public@vhost@g@gutenberg@html@files@2610@2610-h@2610-h-4.htm.html#pgepubid00020"/>
+      </navPoint>
+      <navPoint id="np-22" playOrder="22">
+        <navLabel>
+          <text>BOOK THIRD.</text>
+        </navLabel>
+        <content src="@public@vhost@g@gutenberg@html@files@2610@2610-h@2610-h-4.htm.html#pgepubid00021"/>
+      </navPoint>
+      <navPoint id="np-23" playOrder="23">
+        <navLabel>
+          <text>CHAPTER I. NOTRE-DAME.</text>
+        </navLabel>
+        <content src="@public@vhost@g@gutenberg@html@files@2610@2610-h@2610-h-4.htm.html#pgepubid00022"/>
+      </navPoint>
+      <navPoint id="np-24" playOrder="24">
+        <navLabel>
+          <text>CHAPTER II. A BIRD'S-EYE VIEW OF PARIS.</text>
+        </navLabel>
+        <content src="@public@vhost@g@gutenberg@html@files@2610@2610-h@2610-h-4.htm.html#pgepubid00023"/>
+      </navPoint>
+      <navPoint id="np-25" playOrder="25">
+        <navLabel>
+          <text>BOOK FOURTH.</text>
+        </navLabel>
+        <content src="@public@vhost@g@gutenberg@html@files@2610@2610-h@2610-h-6.htm.html#pgepubid00024"/>
+      </navPoint>
+      <navPoint id="np-26" playOrder="26">
+        <navLabel>
+          <text>CHAPTER I. GOOD SOULS.</text>
+        </navLabel>
+        <content src="@public@vhost@g@gutenberg@html@files@2610@2610-h@2610-h-6.htm.html#pgepubid00025"/>
+      </navPoint>
+      <navPoint id="np-27" playOrder="27">
+        <navLabel>
+          <text>CHAPTER II. CLAUDE FROLLO.</text>
+        </navLabel>
+        <content src="@public@vhost@g@gutenberg@html@files@2610@2610-h@2610-h-6.htm.html#pgepubid00026"/>
+      </navPoint>
+      <navPoint id="np-28" playOrder="28">
+        <navLabel>
+          <text>CHAPTER III. IMMANIS PECORIS CUSTOS, IMMANIOR IPSE.</text>
+        </navLabel>
+        <content src="@public@vhost@g@gutenberg@html@files@2610@2610-h@2610-h-6.htm.html#pgepubid00027"/>
+      </navPoint>
+      <navPoint id="np-29" playOrder="29">
+        <navLabel>
+          <text>CHAPTER IV. THE DOG AND HIS MASTER.</text>
+        </navLabel>
+        <content src="@public@vhost@g@gutenberg@html@files@2610@2610-h@2610-h-6.htm.html#pgepubid00028"/>
+      </navPoint>
+      <navPoint id="np-30" playOrder="30">
+        <navLabel>
+          <text>CHAPTER V. MORE ABOUT CLAUDE FROLLO.</text>
+        </navLabel>
+        <content src="@public@vhost@g@gutenberg@html@files@2610@2610-h@2610-h-6.htm.html#pgepubid00029"/>
+      </navPoint>
+      <navPoint id="np-31" playOrder="31">
+        <navLabel>
+          <text>CHAPTER VI. UNPOPULARITY.</text>
+        </navLabel>
+        <content src="@public@vhost@g@gutenberg@html@files@2610@2610-h@2610-h-7.htm.html#pgepubid00030"/>
+      </navPoint>
+      <navPoint id="np-32" playOrder="32">
+        <navLabel>
+          <text>BOOK FIFTH.</text>
+        </navLabel>
+        <content src="@public@vhost@g@gutenberg@html@files@2610@2610-h@2610-h-7.htm.html#pgepubid00031"/>
+      </navPoint>
+      <navPoint id="np-33" playOrder="33">
+        <navLabel>
+          <text>CHAPTER I. ABBAS BEATI MARTINI.</text>
+        </navLabel>
+        <content src="@public@vhost@g@gutenberg@html@files@2610@2610-h@2610-h-7.htm.html#pgepubid00032"/>
+      </navPoint>
+      <navPoint id="np-34" playOrder="34">
+        <navLabel>
+          <text>CHAPTER II. THIS WILL KILL THAT.</text>
+        </navLabel>
+        <content src="@public@vhost@g@gutenberg@html@files@2610@2610-h@2610-h-7.htm.html#pgepubid00033"/>
+      </navPoint>
+      <navPoint id="np-35" playOrder="35">
+        <navLabel>
+          <text>BOOK SIXTH.</text>
+        </navLabel>
+        <content src="@public@vhost@g@gutenberg@html@files@2610@2610-h@2610-h-8.htm.html#pgepubid00034"/>
+      </navPoint>
+      <navPoint id="np-36" playOrder="36">
+        <navLabel>
+          <text>CHAPTER I. AN IMPARTIAL GLANCE AT THE ANCIENT MAGISTRACY.</text>
+        </navLabel>
+        <content src="@public@vhost@g@gutenberg@html@files@2610@2610-h@2610-h-8.htm.html#pgepubid00035"/>
+      </navPoint>
+      <navPoint id="np-37" playOrder="37">
+        <navLabel>
+          <text>CHAPTER II. THE RAT-HOLE.</text>
+        </navLabel>
+        <content src="@public@vhost@g@gutenberg@html@files@2610@2610-h@2610-h-8.htm.html#pgepubid00036"/>
+      </navPoint>
+      <navPoint id="np-38" playOrder="38">
+        <navLabel>
+          <text>CHAPTER III. HISTORY OF A LEAVENED CAKE OF MAIZE.</text>
+        </navLabel>
+        <content src="@public@vhost@g@gutenberg@html@files@2610@2610-h@2610-h-9.htm.html#pgepubid00037"/>
+      </navPoint>
+      <navPoint id="np-39" playOrder="39">
+        <navLabel>
+          <text>CHAPTER IV. A TEAR FOR A DROP OF WATER.</text>
+        </navLabel>
+        <content src="@public@vhost@g@gutenberg@html@files@2610@2610-h@2610-h-10.htm.html#pgepubid00038"/>
+      </navPoint>
+      <navPoint id="np-40" playOrder="40">
+        <navLabel>
+          <text>CHAPTER V. END OF THE STORY OF THE CAKE.</text>
+        </navLabel>
+        <content src="@public@vhost@g@gutenberg@html@files@2610@2610-h@2610-h-10.htm.html#pgepubid00039"/>
+      </navPoint>
+      <navPoint id="np-41" playOrder="41">
+        <navLabel>
+          <text>VOLUME II.</text>
+        </navLabel>
+        <content src="@public@vhost@g@gutenberg@html@files@2610@2610-h@2610-h-10.htm.html#pgepubid00040"/>
+      </navPoint>
+      <navPoint id="np-42" playOrder="42">
+        <navLabel>
+          <text>TABLE OF CONTENTS.</text>
+        </navLabel>
+        <content src="@public@vhost@g@gutenberg@html@files@2610@2610-h@2610-h-10.htm.html#pgepubid00041"/>
+      </navPoint>
+      <navPoint id="np-43" playOrder="43">
+        <navLabel>
+          <text>CHAPTER I. THE DANGER OF CONFIDING ONE'S SECRET TO A GOAT.</text>
+        </navLabel>
+        <content src="@public@vhost@g@gutenberg@html@files@2610@2610-h@2610-h-10.htm.html#pgepubid00042"/>
+      </navPoint>
+      <navPoint id="np-44" playOrder="44">
+        <navLabel>
+          <text>CHAPTER II. A PRIEST AND A PHILOSOPHER ARE TWO DIFFERENT THINGS.</text>
+        </navLabel>
+        <content src="@public@vhost@g@gutenberg@html@files@2610@2610-h@2610-h-11.htm.html#pgepubid00043"/>
+      </navPoint>
+      <navPoint id="np-45" playOrder="45">
+        <navLabel>
+          <text>CHAPTER III. THE BELLS.</text>
+        </navLabel>
+        <content src="@public@vhost@g@gutenberg@html@files@2610@2610-h@2610-h-11.htm.html#pgepubid00044"/>
+      </navPoint>
+      <navPoint id="np-46" playOrder="46">
+        <navLabel>
+          <text>CHAPTER IV. ANArKH.</text>
+        </navLabel>
+        <content src="@public@vhost@g@gutenberg@html@files@2610@2610-h@2610-h-11.htm.html#pgepubid00045"/>
+      </navPoint>
+      <navPoint id="np-47" playOrder="47">
+        <navLabel>
+          <text>CHAPTER V. THE TWO MEN CLOTHED IN BLACK.</text>
+        </navLabel>
+        <content src="@public@vhost@g@gutenberg@html@files@2610@2610-h@2610-h-12.htm.html#pgepubid00046"/>
+      </navPoint>
+      <navPoint id="np-48" playOrder="48">
+        <navLabel>
+          <text>CHAPTER VI. THE EFFECT WHICH SEVEN OATHS IN THE OPEN AIR CAN PRODUCE.</text>
+        </navLabel>
+        <content src="@public@vhost@g@gutenberg@html@files@2610@2610-h@2610-h-12.htm.html#pgepubid00047"/>
+      </navPoint>
+      <navPoint id="np-49" playOrder="49">
+        <navLabel>
+          <text>CHAPTER VII. THE MYSTERIOUS MONK.</text>
+        </navLabel>
+        <content src="@public@vhost@g@gutenberg@html@files@2610@2610-h@2610-h-12.htm.html#pgepubid00048"/>
+      </navPoint>
+      <navPoint id="np-50" playOrder="50">
+        <navLabel>
+          <text>CHAPTER VIII. THE UTILITY OF WINDOWS WHICH OPEN ON THE RIVER.</text>
+        </navLabel>
+        <content src="@public@vhost@g@gutenberg@html@files@2610@2610-h@2610-h-13.htm.html#pgepubid00049"/>
+      </navPoint>
+      <navPoint id="np-51" playOrder="51">
+        <navLabel>
+          <text>BOOK EIGHTH.</text>
+        </navLabel>
+        <content src="@public@vhost@g@gutenberg@html@files@2610@2610-h@2610-h-13.htm.html#pgepubid00050"/>
+      </navPoint>
+      <navPoint id="np-52" playOrder="52">
+        <navLabel>
+          <text>CHAPTER I. THE CROWN CHANGED INTO A DRY LEAF.</text>
+        </navLabel>
+        <content src="@public@vhost@g@gutenberg@html@files@2610@2610-h@2610-h-13.htm.html#pgepubid00051"/>
+      </navPoint>
+      <navPoint id="np-53" playOrder="53">
+        <navLabel>
+          <text>CHAPTER II. CONTINUATION OF THE CROWN WHICH WAS CHANGED INTO A DRY LEAF.</text>
+        </navLabel>
+        <content src="@public@vhost@g@gutenberg@html@files@2610@2610-h@2610-h-13.htm.html#pgepubid00052"/>
+      </navPoint>
+      <navPoint id="np-54" playOrder="54">
+        <navLabel>
+          <text>CHAPTER III. END OF THE CROWN WHICH WAS TURNED INTO A DRY LEAF.</text>
+        </navLabel>
+        <content src="@public@vhost@g@gutenberg@html@files@2610@2610-h@2610-h-14.htm.html#pgepubid00053"/>
+      </navPoint>
+      <navPoint id="np-55" playOrder="55">
+        <navLabel>
+          <text>CHAPTER IV. LASCIATE OGNI SPERANZA—LEAVE ALL HOPE BEHIND, YE WHO</text>
+        </navLabel>
+        <content src="@public@vhost@g@gutenberg@html@files@2610@2610-h@2610-h-14.htm.html#pgepubid00054"/>
+      </navPoint>
+      <navPoint id="np-56" playOrder="56">
+        <navLabel>
+          <text>CHAPTER V. THE MOTHER.</text>
+        </navLabel>
+        <content src="@public@vhost@g@gutenberg@html@files@2610@2610-h@2610-h-14.htm.html#pgepubid00055"/>
+      </navPoint>
+      <navPoint id="np-57" playOrder="57">
+        <navLabel>
+          <text>CHAPTER VI. THREE HUMAN HEARTS DIFFERENTLY CONSTRUCTED.</text>
+        </navLabel>
+        <content src="@public@vhost@g@gutenberg@html@files@2610@2610-h@2610-h-15.htm.html#pgepubid00056"/>
+      </navPoint>
+      <navPoint id="np-58" playOrder="58">
+        <navLabel>
+          <text>BOOK NINTH.</text>
+        </navLabel>
+        <content src="@public@vhost@g@gutenberg@html@files@2610@2610-h@2610-h-15.htm.html#pgepubid00057"/>
+      </navPoint>
+      <navPoint id="np-59" playOrder="59">
+        <navLabel>
+          <text>CHAPTER I. DELIRIUM.</text>
+        </navLabel>
+        <content src="@public@vhost@g@gutenberg@html@files@2610@2610-h@2610-h-15.htm.html#pgepubid00058"/>
+      </navPoint>
+      <navPoint id="np-60" playOrder="60">
+        <navLabel>
+          <text>CHAPTER II. HUNCHBACKED, ONE EYED, LAME.</text>
+        </navLabel>
+        <content src="@public@vhost@g@gutenberg@html@files@2610@2610-h@2610-h-16.htm.html#pgepubid00059"/>
+      </navPoint>
+      <navPoint id="np-61" playOrder="61">
+        <navLabel>
+          <text>CHAPTER III. DEAF.</text>
+        </navLabel>
+        <content src="@public@vhost@g@gutenberg@html@files@2610@2610-h@2610-h-16.htm.html#pgepubid00060"/>
+      </navPoint>
+      <navPoint id="np-62" playOrder="62">
+        <navLabel>
+          <text>CHAPTER IV. EARTHENWARE AND CRYSTAL.</text>
+        </navLabel>
+        <content src="@public@vhost@g@gutenberg@html@files@2610@2610-h@2610-h-16.htm.html#pgepubid00061"/>
+      </navPoint>
+      <navPoint id="np-63" playOrder="63">
+        <navLabel>
+          <text>CHAPTER V. THE KEY TO THE RED DOOR.</text>
+        </navLabel>
+        <content src="@public@vhost@g@gutenberg@html@files@2610@2610-h@2610-h-17.htm.html#pgepubid00062"/>
+      </navPoint>
+      <navPoint id="np-64" playOrder="64">
+        <navLabel>
+          <text>CHAPTER VI. CONTINUATION OF THE KEY TO THE RED DOOR.</text>
+        </navLabel>
+        <content src="@public@vhost@g@gutenberg@html@files@2610@2610-h@2610-h-17.htm.html#pgepubid00063"/>
+      </navPoint>
+      <navPoint id="np-65" playOrder="65">
+        <navLabel>
+          <text>BOOK TENTH.</text>
+        </navLabel>
+        <content src="@public@vhost@g@gutenberg@html@files@2610@2610-h@2610-h-17.htm.html#pgepubid00064"/>
+      </navPoint>
+      <navPoint id="np-66" playOrder="66">
+        <navLabel>
+          <text>CHAPTER I. GRINGOIRE HAS MANY GOOD IDEAS IN SUCCESSION.—RUE DES</text>
+        </navLabel>
+        <content src="@public@vhost@g@gutenberg@html@files@2610@2610-h@2610-h-17.htm.html#pgepubid00065"/>
+      </navPoint>
+      <navPoint id="np-67" playOrder="67">
+        <navLabel>
+          <text>CHAPTER II. TURN VAGABOND.</text>
+        </navLabel>
+        <content src="@public@vhost@g@gutenberg@html@files@2610@2610-h@2610-h-17.htm.html#pgepubid00066"/>
+      </navPoint>
+      <navPoint id="np-68" playOrder="68">
+        <navLabel>
+          <text>CHAPTER III. LONG LIVE MIRTH.</text>
+        </navLabel>
+        <content src="@public@vhost@g@gutenberg@html@files@2610@2610-h@2610-h-17.htm.html#pgepubid00067"/>
+      </navPoint>
+      <navPoint id="np-69" playOrder="69">
+        <navLabel>
+          <text>CHAPTER IV. AN AWKWARD FRIEND.</text>
+        </navLabel>
+        <content src="@public@vhost@g@gutenberg@html@files@2610@2610-h@2610-h-18.htm.html#pgepubid00068"/>
+      </navPoint>
+      <navPoint id="np-70" playOrder="70">
+        <navLabel>
+          <text>CHAPTER V. THE RETREAT IN WHICH MONSIEUR LOUIS OF FRANCE SAYS HIS</text>
+        </navLabel>
+        <content src="@public@vhost@g@gutenberg@html@files@2610@2610-h@2610-h-19.htm.html#pgepubid00069"/>
+      </navPoint>
+      <navPoint id="np-71" playOrder="71">
+        <navLabel>
+          <text>CHAPTER VI. LITTLE SWORD IN POCKET.</text>
+        </navLabel>
+        <content src="@public@vhost@g@gutenberg@html@files@2610@2610-h@2610-h-20.htm.html#pgepubid00070"/>
+      </navPoint>
+      <navPoint id="np-72" playOrder="72">
+        <navLabel>
+          <text>CHAPTER VII. CHATEAUPERS TO THE RESCUE.</text>
+        </navLabel>
+        <content src="@public@vhost@g@gutenberg@html@files@2610@2610-h@2610-h-20.htm.html#pgepubid00071"/>
+      </navPoint>
+      <navPoint id="np-73" playOrder="73">
+        <navLabel>
+          <text>BOOK ELEVENTH.</text>
+        </navLabel>
+        <content src="@public@vhost@g@gutenberg@html@files@2610@2610-h@2610-h-20.htm.html#pgepubid00072"/>
+      </navPoint>
+      <navPoint id="np-74" playOrder="74">
+        <navLabel>
+          <text>CHAPTER I. THE LITTLE SHOE.</text>
+        </navLabel>
+        <content src="@public@vhost@g@gutenberg@html@files@2610@2610-h@2610-h-21.htm.html#pgepubid00073"/>
+      </navPoint>
+      <navPoint id="np-75" playOrder="75">
+        <navLabel>
+          <text>CHAPTER II. THE BEAUTIFUL CREATURE CLAD IN WHITE. (Dante.)</text>
+        </navLabel>
+        <content src="@public@vhost@g@gutenberg@html@files@2610@2610-h@2610-h-22.htm.html#pgepubid00074"/>
+      </navPoint>
+      <navPoint id="np-76" playOrder="76">
+        <navLabel>
+          <text>CHAPTER III. THE MARRIAGE OF PHOEBUS.</text>
+        </navLabel>
+        <content src="@public@vhost@g@gutenberg@html@files@2610@2610-h@2610-h-22.htm.html#pgepubid00075"/>
+      </navPoint>
+      <navPoint id="np-77" playOrder="77">
+        <navLabel>
+          <text>CHAPTER IV. THE MARRIAGE OF QUASIMODO.</text>
+        </navLabel>
+        <content src="@public@vhost@g@gutenberg@html@files@2610@2610-h@2610-h-22.htm.html#pgepubid00076"/>
+      </navPoint>
+      <navPoint id="np-78" playOrder="78">
+        <navLabel>
+          <text>NOTE</text>
+        </navLabel>
+        <content src="@public@vhost@g@gutenberg@html@files@2610@2610-h@2610-h-22.htm.html#pgepubid00077"/>
+        <navPoint id="np-79" playOrder="79">
+          <navLabel>
+            <text>ADDED TO THE DEFINITIVE EDITION.</text>
+          </navLabel>
+          <content src="@public@vhost@g@gutenberg@html@files@2610@2610-h@2610-h-22.htm.html#pgepubid00078"/>
+        </navPoint>
+      </navPoint>
+    </navPoint>
+  </navMap>
+</ncx>

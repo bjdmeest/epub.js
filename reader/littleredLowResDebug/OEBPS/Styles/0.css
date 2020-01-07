@@ -1,0 +1,78 @@
+@charset "utf-8";
+/**/
+* p {
+    text-indent: 0;
+    margin-top: 0.75em;
+    margin-bottom: 0.75em
+    }
+h1, h2, h3, h4, h5, h6 {
+    text-align: center
+    }
+hr {
+    width: 50%;
+    margin-top: 1em;
+    margin-bottom: 1em
+    }
+hr.full {
+    width: 100%
+    }
+body {
+    margin-left: 10%;
+    margin-right: 10%;
+    font-size: medium
+    }
+.toc {
+    margin-left: 25%;
+    margin-bottom: 0
+    }
+.poem {
+    margin-left: 0%;
+    margin-right: 0%;
+    text-align: left
+    }
+.poem .stanza {
+    margin: 1em 0 1em 0
+    }
+.poem p {
+    margin: 0;
+    padding-left: 3em;
+    text-indent: -3em
+    }
+.poem p.i8 {
+    margin-left: 4em
+    }
+.figure, .figcenter, .figright, .figleft {
+    padding: 1em;
+    margin: 0;
+    text-align: center;
+    font-size: 0.8em
+    }
+.figure img, .figcenter img, .figright img, .figleft img {
+    border: none
+    }
+.figure p, .figcenter p, .figright p, .figleft p {
+    margin: 0;
+    text-indent: 1em
+    }
+.figcenter {
+    margin: auto
+    }
+a:link {
+    color: blue;
+    text-decoration: none
+    }
+link {
+    color: blue;
+    text-decoration: none
+    }
+a:visited {
+    color: blue;
+    text-decoration: none
+    }
+a:hover {
+    color: red
+    }
+pre {
+    font-size: 9pt
+    }
+/**/

@@ -25,7 +25,7 @@
                 EPUBJS.cssPath = "css/";
                 // fileStorage.filePath = EPUBJS.filePath;
 
-                window.Reader = ePubReader("moby-dick/", { reload: true, generatePagination: false });
+                window.Reader = ePubReader("notre-dame/", { reload: true, generatePagination: false });
               }  
             };
         
@@ -82,6 +82,31 @@
         <script async src="../hooks/extensions/highlight.js"></script>
         
         <!-- Plugins -->
+    <!-- [custom-epubjs] START PLUGIN -->
+    <script src="../reader_src/plugins/_pluginTools/cfiPlugin.js" type="application/javascript"></script>
+    <script src="../reader_src/plugins/_pluginTools/getVisibleContentPlugin.js" type="application/javascript"></script>
+    <link rel="stylesheet" href="../reader_src/plugins/_pluginTools/resources/font-awesome.min.css" />
+    <link rel="stylesheet" href="../reader_src/plugins/_pluginTools/resources/modal-fix.css" />
+    <script src="../reader_src/plugins/_pluginTools/uiPlugin.js" type="application/javascript"></script>
+    <script src="../reader_src/plugins/_pluginTools/cfiPlugin.js" type="application/javascript"></script>
+    <script src="../reader_src/plugins/_pluginTools/getVisibleContentPlugin.js" type="application/javascript"></script>
+    <link rel="stylesheet" href="../reader_src/plugins/_pluginTools/resources/font-awesome.min.css" />
+    <link rel="stylesheet" href="../reader_src/plugins/_pluginTools/resources/modal-fix.css" />
+    <script src="../reader_src/plugins/_pluginTools/uiPlugin.js" type="application/javascript"></script>
+    <script src="../reader_src/plugins/_pluginTools/cfiPlugin.js" type="application/javascript"></script>
+    <script src="../reader_src/plugins/_pluginTools/getVisibleContentPlugin.js" type="application/javascript"></script>
+    <link rel="stylesheet" href="../reader_src/plugins/_pluginTools/resources/font-awesome.min.css" />
+    <link rel="stylesheet" href="../reader_src/plugins/_pluginTools/resources/modal-fix.css" />
+    <script src="../reader_src/plugins/_pluginTools/uiPlugin.js" type="application/javascript"></script>
+    <script src="../reader_src/plugins/ocr/ocrPlugin.js" type="application/javascript"></script>
+    <script src="../reader_src/plugins/ocr/vendor/fuzzy.js" type="application/javascript"></script>
+    <script src="../reader_src/plugins/ocr/vendor/ocrad.js" type="application/javascript"></script>
+    <script src="../reader_src/plugins/ocr/vendor/rangy.min.js" type="application/javascript"></script>
+    <script src="../reader_src/plugins/ocr/vendor/sw.js" type="application/javascript"></script>
+    <script src="../reader_src/plugins/ocr/vendor/webcam.js" type="application/javascript"></script>
+    <script src="../reader_src/plugins/sample/CfiUpdatePlugin.js" type="application/javascript"></script>
+    <!-- [custom-epubjs] STOP PLUGIN -->
+
         <script src="../reader_src/plugins/search.js"></script>
         
     </head>

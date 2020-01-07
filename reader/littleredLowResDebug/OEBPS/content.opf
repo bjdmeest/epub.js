@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="id" version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <dc:rights>Public domain in the USA.</dc:rights>
+    <dc:identifier id="id" opf:scheme="URI">http://www.gutenberg.org/ebooks/11592</dc:identifier>
+    <dc:contributor opf:file-as="Piper, Watty, pseud." opf:role="edt">pseud. Watty Piper</dc:contributor>
+    <dc:title>Children's Hour with Red Riding Hood and Other Stories</dc:title>
+    <dc:language xsi:type="dcterms:RFC4646">en</dc:language>
+    <dc:subject>Fairy tales</dc:subject>
+    <dc:date opf:event="publication">2004-03-01</dc:date>
+    <dc:date opf:event="conversion">2013-03-13T11:37:52.249699+00:00</dc:date>
+    <dc:source>http://www.gutenberg.org/files/11592/11592-h/11592-h.htm</dc:source>
+    <meta content="0.7.2" name="Sigil version" />
+    <dc:date opf:event="modification">2015-01-02</dc:date>
+  </metadata>
+  <manifest>
+    <!--Image: 150 x 179 size=12927 -->
+    <item href="Images/%40public%40vhost%40g%40gutenberg%40html%40files%4011592%4011592-h%40images%40001t.jpg" id="item1" media-type="image/jpeg" />
+    <!--Image: 300 x 341 size=32224 -->
+    <item href="Images/%40public%40vhost%40g%40gutenberg%40html%40files%4011592%4011592-h%40images%40002.png" id="item2" media-type="image/png" />
+    <!--Image: 300 x 391 size=57117 -->
+    <item href="Images/%40public%40vhost%40g%40gutenberg%40html%40files%4011592%4011592-h%40images%40003.png" id="item3" media-type="image/png" />
+    <!--Image: 501 x 300 size=45594 -->
+    <item href="Images/%40public%40vhost%40g%40gutenberg%40html%40files%4011592%4011592-h%40images%40004.jpg" id="item4" media-type="image/jpeg" />
+    <!--Image: 150 x 178 size=12750 -->
+    <item href="Images/%40public%40vhost%40g%40gutenberg%40html%40files%4011592%4011592-h%40images%40006t.jpg" id="item5" media-type="image/jpeg" />
+    <!--Image: 300 x 320 size=36901 -->
+    <item href="Images/%40public%40vhost%40g%40gutenberg%40html%40files%4011592%4011592-h%40images%40008.jpg" id="item6" media-type="image/jpeg" />
+    <!--Image: 150 x 198 size=11466 -->
+    <item href="Images/%40public%40vhost%40g%40gutenberg%40html%40files%4011592%4011592-h%40images%40010t.jpg" id="item7" media-type="image/jpeg" />
+    <!--Image: 300 x 295 size=27641 -->
+    <item href="Images/%40public%40vhost%40g%40gutenberg%40html%40files%4011592%4011592-h%40images%40012.png" id="item8" media-type="image/png" />
+    <!--Image: 150 x 192 size=11854 -->
+    <item href="Images/%40public%40vhost%40g%40gutenberg%40html%40files%4011592%4011592-h%40images%40014t.jpg" id="item9" media-type="image/jpeg" />
+    <!--Image: 346 x 300 size=41777 -->
+    <item href="Images/%40public%40vhost%40g%40gutenberg%40html%40files%4011592%4011592-h%40images%40015.png" id="item10" media-type="image/png" />
+    <!--Image: 300 x 398 size=33959 -->
+    <item href="Images/%40public%40vhost%40g%40gutenberg%40html%40files%4011592%4011592-h%40images%40016.jpg" id="item11" media-type="image/jpeg" />
+    <!--Image: 486 x 300 size=52619 -->
+    <item href="Images/%40public%40vhost%40g%40gutenberg%40html%40files%4011592%4011592-h%40images%40018.png" id="item12" media-type="image/png" />
+    <!--Image: 150 x 190 size=10833 -->
+    <item href="Images/%40public%40vhost%40g%40gutenberg%40html%40files%4011592%4011592-h%40images%40017t.jpg" id="item13" media-type="image/jpeg" />
+    <!--Image: 300 x 366 size=31127 -->
+    <item href="Images/%40public%40vhost%40g%40gutenberg%40html%40files%4011592%4011592-h%40images%40020.jpg" id="item14" media-type="image/jpeg" />
+    <!--Image: 150 x 217 size=12562 -->
+    <item href="Images/%40public%40vhost%40g%40gutenberg%40html%40files%4011592%4011592-h%40images%40022t.jpg" id="item15" media-type="image/jpeg" />
+    <!--Image: 300 x 370 size=43425 -->
+    <item href="Images/%40public%40vhost%40g%40gutenberg%40html%40files%4011592%4011592-h%40images%40024.png" id="item16" media-type="image/png" />
+    <!--Image: 150 x 187 size=11859 -->
+    <item href="Images/%40public%40vhost%40g%40gutenberg%40html%40files%4011592%4011592-h%40images%40026t.jpg" id="item17" media-type="image/jpeg" />
+    <!--Image: 300 x 387 size=27707 -->
+    <item href="Images/%40public%40vhost%40g%40gutenberg%40html%40files%4011592%4011592-h%40images%40028.png" id="item18" media-type="image/png" />
+    <!--Image: 700 x 861 size=124100 -->
+    <item href="Images/%40public%40vhost%40g%40gutenberg%40html%40files%4011592%4011592-h%40images%40030t.jpg" id="item19" media-type="image/jpeg" />
+    <!--Image: 300 x 367 size=34077 -->
+    <item href="Images/%40public%40vhost%40g%40gutenberg%40html%40files%4011592%4011592-h%40images%40031.jpg" id="item20" media-type="image/jpeg" />
+    <!--Image: 700 x 877 size=112847 q=70-->
+    <item href="Images/%40public%40vhost%40g%40gutenberg%40html%40files%4011592%4011592-h%40images%40034t.jpg" id="item21" media-type="image/jpeg" />
+    <!--Image: 300 x 366 size=36343 -->
+    <item href="Images/%40public%40vhost%40g%40gutenberg%40html%40files%4011592%4011592-h%40images%40036.png" id="item22" media-type="image/png" />
+    <!--Image: 410 x 300 size=45940 -->
+    <item href="Images/%40public%40vhost%40g%40gutenberg%40html%40files%4011592%4011592-h%40images%40038.png" id="item23" media-type="image/png" />
+    <!--Image: 300 x 355 size=36027 -->
+    <item href="Images/%40public%40vhost%40g%40gutenberg%40html%40files%4011592%4011592-h%40images%40040.png" id="item24" media-type="image/png" />
+    <!--Image: 700 x 853 size=110849 q=70-->
+    <item href="Images/%40public%40vhost%40g%40gutenberg%40html%40files%4011592%4011592-h%40images%40037t.jpg" id="item25" media-type="image/jpeg" />
+    <!--Image: 150 x 241 size=11844 -->
+    <item href="Images/%40public%40vhost%40g%40gutenberg%40html%40files%4011592%4011592-h%40images%40042t.jpg" id="item26" media-type="image/jpeg" />
+    <!--Image: 300 x 407 size=45312 -->
+    <item href="Images/%40public%40vhost%40g%40gutenberg%40html%40files%4011592%4011592-h%40images%40044.jpg" id="item27" media-type="image/jpeg" />
+    <!--Image: 503 x 300 size=69347 -->
+    <item href="Images/%40public%40vhost%40g%40gutenberg%40html%40files%4011592%4011592-h%40images%40046.png" id="item28" media-type="image/png" />
+    <!--Image: 150 x 174 size=12062 -->
+    <item href="Images/%40public%40vhost%40g%40gutenberg%40html%40files%4011592%4011592-h%40images%40045t.jpg" id="item29" media-type="image/jpeg" />
+    <!--Image: 250 x 379 size=39350 -->
+    <item href="Images/%40public%40vhost%40g%40gutenberg%40html%40files%4011592%4011592-h%40images%40048.png" id="item30" media-type="image/png" />
+    <!--Image: 150 x 195 size=10271 -->
+    <item href="Images/%40public%40vhost%40g%40gutenberg%40html%40files%4011592%4011592-h%40images%40050t.jpg" id="item31" media-type="image/jpeg" />
+    <!--Image: 300 x 383 size=67340 -->
+    <item href="Images/%40public%40vhost%40g%40gutenberg%40html%40files%4011592%4011592-h%40images%40052.png" id="item32" media-type="image/png" />
+    <!--Image: 300 x 338 size=47283 -->
+    <item href="Images/%40public%40vhost%40g%40gutenberg%40html%40files%4011592%4011592-h%40images%40056.jpg" id="item33" media-type="image/jpeg" />
+    <!--Image: 150 x 195 size=11779 -->
+    <item href="Images/%40public%40vhost%40g%40gutenberg%40html%40files%4011592%4011592-h%40images%40054t.jpg" id="item34" media-type="image/jpeg" />
+    <!--Image: 150 x 193 size=11464 -->
+    <item href="Images/%40public%40vhost%40g%40gutenberg%40html%40files%4011592%4011592-h%40images%40058t.jpg" id="item35" media-type="image/jpeg" />
+    <item href="Styles/pgepub.css" id="item36" media-type="text/css" />
+    <item href="Styles/0.css" id="item37" media-type="text/css" />
+    <item href="Styles/1.css" id="item38" media-type="text/css" />
+    <!--Chunk: size=51566-->
+    <item href="Text/%40public%40vhost%40g%40gutenberg%40html%40files%4011592%4011592-h%4011592-h-0.htm.html" id="item39" media-type="application/xhtml+xml" />
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml" />
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="item39" linear="yes" />
+  </spine>
+  <guide>
+    <reference href="Text/%40public%40vhost%40g%40gutenberg%40html%40files%4011592%4011592-h%4011592-h-0.htm.html#pgepubid00006" title="CONTENTS" type="toc" />
+  </guide>
+</package>
